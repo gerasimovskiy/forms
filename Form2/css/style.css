@@ -1,0 +1,54 @@
+body {
+	width: 50%;
+	margin: auto;
+}
+p {
+	font-style: italic;
+	font-size: 19px;
+}
+fieldset {
+	font-size: 19px;
+	position: relative;
+	padding: 15px;
+}
+legend {
+	font-size: 20px;
+	font-weight: 700;
+}
+sup {
+	color: red;
+}
+[type="text"],
+[type="tel"],
+[type="email"],
+[type="number"],
+select,
+textarea {
+position: absolute;
+right: 28%;
+width: 50%;
+}
+textarea {
+	top: 107px;
+}
+select {
+	width: 50.5%;
+}
+div {
+	margin: 10px 0;
+}
+.email {
+	margin-top: 5px;
+}
+.info {
+	height: 250px;
+	margin: 10px 0;
+}
+.animals {
+	display: inline-block;
+	width: 155px;
+	margin: 0 0 14px 0;
+}
+button {
+	margin-top: 15px;
+}
